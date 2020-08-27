@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki Editor: Summary buttons.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "editor",
@@ -29,8 +29,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-editor-summary-buttons/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-editor-summary-buttons"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-editor-summary-buttons/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-editor-summary-buttons"
   },
   "require": {
     "composer/installers": "~1.0",
